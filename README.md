@@ -8,7 +8,7 @@ Recursively replace file names under the configuration folder with the specified
 
 ## Environment Variables and Commands
 
--
+- Add Environment Variables for rfn.ps1
 
 ### Environment Variables
 
